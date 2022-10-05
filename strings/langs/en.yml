@@ -75,7 +75,7 @@ admin_34 : "Failed to seek the current stream."
 
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "Hello, My name is {0}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
+start_2 : "Hello, My name is ᴅᴀᴘs ᴍᴜsɪᴄ ʙᴏᴛ.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
 start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
@@ -237,22 +237,22 @@ stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 Close"
-CLOSEMENU_BUTTON  : "🗑 Close Menu"
-BACK_BUTTON : "⬅ Back"
-UNBAN_BUTTON : "🗑 Unban Assistant"
+CLOSE_BUTTON  : "• Cʟᴏsᴇ"
+CLOSEMENU_BUTTON  : "• Cʟᴏsᴇ Mᴇɴᴜ"
+BACK_BUTTON : "• Bᴀᴄᴋ"
+UNBAN_BUTTON : "• Uɴʙᴀɴ Asɪssᴛᴀɴᴛ"
 
 #Lyrics
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
-S_B_2 : "🔧 Settings"
-S_B_3 : "📨 Support"
-S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
+S_B_1 : "🗒 Cᴏᴍᴍᴀɴᴅs"
+S_B_2 : "🔧 Sᴇᴛᴛɪɴɢs"
+S_B_3 : "📨 Sᴜᴘᴘᴏʀᴛ"
+S_B_4 : "📨 Cʜᴀɴɴᴇʟ"
+S_B_5 : "✚ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ"
 S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Owner"
+S_B_7 : "🥷 Oᴡɴᴇʀ Bᴏᴛ"
 S_B_8 : "🔎 How to Use? Commands Menu."
 
 #Help 
