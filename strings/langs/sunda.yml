@@ -62,7 +62,7 @@ admin_34 : "Gagal mendakan aliran ayeuna."
 
 # Start
 start_1 : "Hatur nuhun tos nampi abdi di {0}.\n{1} Abdi Masih Gawé.\n\nPikeun bantosan atanapi bantosan naon waé, pariksa Grup Dukungan sareng Saluran kami."
-start_2 : "Halo, Nami abdi {0}.\n\nAbdi bot streaming telegram sareng sababaraha fitur anu mangpaat. Platform pangrojong sapertos Youtube, Spotify, Resso, AppleMusic, Soundcloud jsb.\n\nPunten nambihan abdi ka grup anjeun."
+start_2 : "Halo, Nami abdi ᴅᴀᴘs ᴍᴜsɪᴄ.\n\nAbdi bot streaming telegram sareng sababaraha fitur anu mangpaat. Platform pangrojong sapertos Youtube, Spotify, Resso, AppleMusic, Soundcloud jsb.\n\nPunten nambihan abdi ka grup anjeun."
 start_3 : "Wilujeng sumping di {0}\n\nAbdi henteu peryogi **idin admin** kanggo damel (dugi ka dipénta).\n\nAsistant Username:- @{1}\nAssistantID:- {2} "
 start_4 : "Nu boga {0}[{1}] kakara gabung obrolan anjeun."
 start_5 : "Pamaké Anggota sudo {0}[{1}] kakara gabung obrolan anjeun."
@@ -221,24 +221,25 @@ stream_4 : "📡 **Mimitian Streaming** \n\n**🏷Judul:** [{0}]({1})\n⌛️**D
 
 # Tombol Inline
 
-#Tombol Umum
-CLOSE_BUTTON : "🗑 Tutup"
-CLOSEMENU_BUTTON : "🗑 Tutup Menu"
-BACK_BUTTON : "⬅ Balik"
-UNBAN_BUTTON : "🗑 Unban Assistant"
+#General Buttons
+CLOSE_BUTTON  : "• Cʟᴏsᴇ"
+CLOSEMENU_BUTTON  : "• Cʟᴏsᴇ Mᴇɴᴜ"
+BACK_BUTTON : "• Bᴀᴄᴋ"
+UNBAN_BUTTON : "• Uɴʙᴀɴ Asɪssᴛᴀɴᴛ"
 
 #Lyrics
-L_B_1 : "🚀 Tingali Lirik "
+L_B_1 : "🚀 Checkout Lyrics Now"
 
-# Mimitian
-S_B_1 : "🗒 Paréntah"
-S_B_2 : "🔧 Setélan"
-S_B_3 : "👥 Grup"
-S_B_4 : "⚡ Channel"
-S_B_5 : "✚ Tambahkeun ka Grup"
-S_B_6 : "⚡ Repository"
-S_B_7 : "👨‍💻 Pamilik Bot"
-S_B_8 : "🔎 Menu Komando."
+# Start
+S_B_1 : "🗒 Cᴏᴍᴍᴀɴᴅs"
+S_B_2 : "🔧 Sᴇᴛᴛɪɴɢs"
+S_B_3 : "📨 Sᴜᴘᴘᴏʀᴛ"
+S_B_4 : "📨 Cʜᴀɴɴᴇʟ"
+S_B_5 : "✚ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ"
+S_B_6 : "💡 Git Repo"
+S_B_7 : "🥷 Oᴡɴᴇʀ Bᴏᴛ"
+S_B_8 : "🔎 How to Use? Commands Menu."
+
 
 #Tulung
 H_B_1 : "Komando Admin"
