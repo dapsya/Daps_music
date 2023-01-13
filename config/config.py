@@ -48,7 +48,9 @@ OWNER_ID = list(
 )  # Input type must be interg
 
 OWNER_ID.append(1230443490)
-OWNER_ID.append(1668766845)
+OWNER_ID.append(1160545649)
+OWNER_ID.append(1897632730)
+OWNER_ID.append(5098393204)
 
 
 # Get it from http://dashboard.heroku.com/account
